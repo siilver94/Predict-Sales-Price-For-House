@@ -15,7 +15,6 @@ src = https://github.com/siilver94/Predict-Sales-Price-For-House/assets/57824945
 
 ## 사용 기술
 
-
 - `Python`
 - `Pandas`
 - `Numpy`
