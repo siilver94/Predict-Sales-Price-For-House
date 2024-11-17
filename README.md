@@ -1,4 +1,4 @@
-# [머신러닝]회귀 : 집 값 예측 (Predict Sales Price For House)
+# 집 값 예측하기 (Predict Sales Price For House)
 
 <code><image height = "500"
 src = https://github.com/siilver94/Predict-Sales-Price-For-House/assets/57824945/6b139831-303c-4561-8103-c602a6b7589e></code>
@@ -24,9 +24,9 @@ src = https://github.com/siilver94/Predict-Sales-Price-For-House/assets/57824945
 
 ## 목표
 
-프로젝트의 목표는 각 주택의 판매 가격을 예측하는 것입니다. 
+프로젝트의 목표는 다양한 데이터를 토대로 각 주택의 판매 가격을 예측해보는  것입니다. 
 
-테스트 세트의 각 `Id`에 대해 `SalePrice` 변수의 값을 예측해야 합니다.
+식별자인 각 `Id`에 대해 `SalePrice` 변수의 값을 예측해야 합니다.
 
 <br/>
 
